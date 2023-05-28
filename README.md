@@ -40,7 +40,7 @@ As an intern in Railway Group, we are assigned to present a small project. The p
 
 De to the course, I use MATLAB to transform the vibration signals into Frequency field. Although there are many useful toolboxes in MATLAB, it's still a hard challenge since we have to figure out the mathimetical formula before writing the code (namely frouier transform). After that , I use MATLAB to do some research , manipulate the EXCEL and plot the results. During this period, I have learned about searching technical problems on stack-ovrflow and MATLAB Community.
 
-### **VB code at work**
+### **VBA code at work**
 
 *Sep 2022 -  Now* 
 
@@ -48,7 +48,16 @@ Since we have to meet the requirement form client ,I wrote some VBA code to rele
 
 After that , I write a code for recording the information timesheet automatically. It saves us lots of time to input data from person to person. However, I still think that there's better way to solve this problem - Web Developement. 
 
-Skills & Expertise
+Honors and Awards
 ------------------
+* Japanese N2 Degree
+* TOEIC 860 
+
+Majored Online Course
+------------------
+* Git courses at [六角學院](https://www.youtube.com/watch?v=PNEM7CH3ZAg&list=PLYrA-SsMvTPOZeB6DHvB0ewl3miMf-2tj)
+* CS 50 courses at [Harvard University](https://www.youtube.com/watch?v=IDDmrzzB14M&t=6303s)
+
+
 
 
