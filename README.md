@@ -22,18 +22,17 @@ Education
 Experience
 ----------
 
-### **Intership** at [Taiwan High Speed Raail](https://en.thsrc.com.tw/corp/governance)
-
-*Jun 2019 - Jul 2019* (2 months)
-
-As an intern in Railway Group, we are assigned to present a small project. The project is to let field engineers know the stock statsu in each base. Due to time limit, we only propose the framework and collect suggestion. Although it's quite childhood and ugly, I still enjoy the journey of developing this. 
-
 ### **Introduction to Computer at Bachelor Degree **
 
 *Sep 2016 - Jan 2017* (4 months)
 
 The course let us use C++ in IDE Visuo Studio Code to write some code. It aims to introduce basic concept of compoter science , such as the concept of string, the type of variable and overflow. I really liked the course and spent lots of time on this. It leads me to the entrance of the computer science. 
 
+### **Intership** at [Taiwan High Speed Raail](https://en.thsrc.com.tw/corp/governance)
+
+*Jun 2019 - Jul 2019* (2 months)
+
+As an intern in Railway Group, we are assigned to present a small project. The project is to let field engineers know the stock statsu in each base. Due to time limit, we only propose the framework and collect suggestion. Although it's quite childhood and ugly, I still enjoy the journey of developing this. 
 
 ### **Matlab at Master Degree**
 
@@ -47,7 +46,7 @@ De to the course, I use MATLAB to transform the vibration signals into Frequency
 
 Since we have to meet the requirement form client ,I wrote some VBA code to release the burden for the team. The VBA code is to collect all the work content from each person. First , it detect the files in the folder by regular expression. Once it meets the target, it will open the file and gather the work content for each person. With this tool , our project team don't have to use EXCEL to do some repetitive work. 
 
-After that , I write a code for recording the information timesheet automatically. It saves us lots of time to input data from person to person. However, I still think that there's better wat to improve the procedure - Web Developement. 
+After that , I write a code for recording the information timesheet automatically. It saves us lots of time to input data from person to person. However, I still think that there's better way to solve this problem - Web Developement. 
 
 Skills & Expertise
 ------------------
