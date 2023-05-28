@@ -22,47 +22,32 @@ Education
 Experience
 ----------
 
-### **Intership** at [THSR](https://en.thsrc.com.tw/corp/governance)
+### **Intership** at [Taiwan High Speed Raail](https://en.thsrc.com.tw/corp/governance)
 
-*November 2013 - Present*
+*Jun 2019 - Jul 2019* (2 months)
 
-As a member of the Solution Innovations team, I am creating a RWD pattern
-library as the system of record and living style guide for the next version of
-the Magento reference store. I also support sales activities by building and
-deploying various tools and services, such as a third-party JavaScript app that
-enables users to annotate any website with content authored in a WordPress
-blog.
+As an intern in Railway Group, we are assigned to present a small project. The project is to let field engineers know the stock statsu in each base. Due to time limit, we only propose the framework and collect suggestion. Although it's quite childhood and ugly, I still enjoy the journey of developing this. 
 
-### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
+### **Introduction to Computer at Bachelor Degree **
 
-*December 2012 - November 2013* (1 year)
+*Sep 2016 - Jan 2017* (4 months)
 
-Championed a more collaborative process for responsive web design between the
-UX and development disciplines. Curated an internal static web framework and
-responsive pattern library to be used on multiple projects. Lead development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+The course let us use C++ in IDE Visuo Studio Code to write some code. It aims to introduce basic concept of compoter science , such as the concept of string, the type of variable and overflow. I really liked the course and spent lots of time on this. It leads me to the entrance of the computer science. 
 
-### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
 
-*December 2012 - November 2013* (1 year)
+### **Matlab at Master Degree**
 
-Championed a more collaborative process for responsive web design between the
-UX and development disciplines. Curated an internal static web framework and
-responsive pattern library to be used on multiple projects. Lead development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+*Sep 2020 -  Jun 2022* 
 
-### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
+De to the course, I use MATLAB to transform the vibration signals into Frequency field. Although there are many useful toolboxes in MATLAB, it's still a hard challenge since we have to figure out the mathimetical formula before writing the code (namely frouier transform). After that , I use MATLAB to do some research , manipulate the EXCEL and plot the results. During this period, I have learned about searching technical problems on stack-ovrflow and MATLAB Community.
 
-*December 2012 - November 2013* (1 year)
+### **VB code at work**
 
-Championed a more collaborative process for responsive web design between the
-UX and development disciplines. Curated an internal static web framework and
-responsive pattern library to be used on multiple projects. Lead development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+*Sep 2022 -  Now* 
 
+Since we have to meet the requirement form client ,I wrote some VBA code to release the burden for the team. The VBA code is to collect all the work content from each person. First , it detect the files in the folder by regular expression. Once it meets the target, it will open the file and gather the work content for each person. With this tool , our project team don't have to use EXCEL to do some repetitive work. 
+
+After that , I write a code for recording the information timesheet automatically. It saves us lots of time to input data from person to person. However, I still think that there's better wat to improve the procedure - Web Developement. 
 
 Skills & Expertise
 ------------------
