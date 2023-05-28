@@ -22,7 +22,7 @@ Education
 Experience
 ----------
 
-### **Introduction to Computer at Bachelor Degree **
+**Introduction to Computer at Bachelor Degree **
 
 *Sep 2016 - Jan 2017* (4 months)
 
